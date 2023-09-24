@@ -1,0 +1,12 @@
+.container{
+  background-color: #f6f6f6;
+  padding:2rem;
+  margin-top:5rem;
+}
+
+
+.formGroup{
+  display:grid;
+  grid-template-columns:7rem 20rem;
+  margin-bottom:.3rem;
+}

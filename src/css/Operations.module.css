@@ -1,0 +1,20 @@
+.container{
+  background-color: #f6f6f6;
+  padding:2rem;
+  margin-top:2rem;
+}
+
+
+.formGroup{
+  display:grid;
+  gap:.3rem;
+  grid-template-columns:7rem 10rem 5rem;
+  margin-bottom:.3rem;
+}
+
+.formGroupPurpose{
+  display:grid;
+  gap:.3rem;
+  grid-template-columns:7rem 10rem 10rem 10rem;
+  margin-bottom:.3rem;
+}
